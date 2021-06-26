@@ -1,0 +1,1 @@
+[{"file": "/books/tests.py", "issues": [{"reason": {"type": "remove field", "detailed": "author.last_name is deleted"}, "patch": "author.last_name is deleted", "position": {"start": {"line": 8, "column": 65}, "end": {"line": 8, "column": 83}}}]}]
