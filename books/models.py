@@ -5,3 +5,4 @@ class Author(models.Model):
 
 class Book(models.Model):
     title = models.CharField(max_length=30)
+    colour = models.CharField(max_length=30)
